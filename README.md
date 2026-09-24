@@ -1,4 +1,4 @@
-# martinolafsen.com
+# martinolafsen.no
 
 Personal website for Martin Olafsen. Plain static HTML/CSS/JS — no framework,
 no build step. Deployed on Netlify from this repo.
